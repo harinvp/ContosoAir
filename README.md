@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/harivp20/Node-Demo/_apis/build/status/harinvp.ContosoAir?branchName=master)](https://dev.azure.com/harivp20/Node-Demo/_build/latest?definitionId=7&branchName=master)
 
 # Microsoft.Github CI Demo
 
