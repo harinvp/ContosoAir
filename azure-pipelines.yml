@@ -5,7 +5,8 @@ trigger:
 steps:
   - task: Npm@1
     inputs:
-      command: install npm@latest
+      command: install
+      versionSpec: '10.x' # The version we're installing
   - script: 'npm test'
     displayName: 'Run unit tests'
     continueOnError: false    
